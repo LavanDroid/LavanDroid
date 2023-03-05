@@ -2,6 +2,8 @@
 
 🔭 A passionate Flutter developer from India (Tamilnadu)
 
+👨‍💻 I’m currently working as Application Developer @ Ripplr (Intelligent retail pvt ltd)
+
 ✅ Skilled in Mobile Application Development with Java and Flutter.
 
 ✅ Interested in learning new things about programming.

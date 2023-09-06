@@ -16,7 +16,7 @@
 
 
 **Languages and Tools:**
-<p align="left">
+<p align="justify">
 <a href="https://flutter.dev/">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
 width="40" height="40" alt="Flutter"/></a>
@@ -46,7 +46,21 @@ width="40" height="40" alt="Figma"/></a>
 width="40" height="40" alt="Postman"/></a>
 </p>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LavanDroid&show_icons=true&locale=en&layout=compact&theme=radical" alt="LavanDroid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LavanDroid&&theme=radical" alt="LavanDroid" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LavanDroid&show_icons=true&locale=en&theme=radical" alt="LavanDroid" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LavanDroid&label=Profile%20views&color=0e75b6&style=flat" alt="LavanDroid" /> </p>
+
+
+![GitHub metrics](https://metrics.lecoq.io/LavanDroid)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LavanDroid&row=2&column=3&theme=onedark)](https://github.com/LavanDroid/github-profile-trophy)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/LavanDroid/count.svg" />
+</p>
 
 <!---
 LavanDroid/LavanDroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

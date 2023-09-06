@@ -14,10 +14,6 @@
 
 📫 How to reach me: veera.droid@gmail.com
 
-
-Languages and Tools:
-flutter dart firebase git Android Studio
-
 <!---
 LavanDroid/LavanDroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

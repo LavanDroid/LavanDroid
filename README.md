@@ -48,6 +48,8 @@ width="40" height="40" alt="Postman"/></a>
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LavanDroid&show_icons=true&locale=en&layout=compact&theme=radical" alt="LavanDroid" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LavanDroid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LavanDroid&show_icons=true&locale=en&theme=radical" alt="LavanDroid" /></p>
 

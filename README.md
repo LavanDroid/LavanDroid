@@ -48,6 +48,7 @@ width="40" height="40" alt="Postman"/></a>
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LavanDroid&show_icons=true&locale=en&layout=compact&theme=radical" alt="LavanDroid" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LavanDroid)](https://git.io/streak-stats)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LavanDroid&show_icons=true&locale=en&theme=radical" alt="LavanDroid" /></p>

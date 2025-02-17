@@ -48,7 +48,7 @@ width="40" height="40" alt="Postman"/></a>
 </p>
 
 
-<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=LavanDroid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="LavanDroid" /></p>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LavanDroid&show_icons=true&locale=en&layout=compact&theme=radical" alt="LavanDroid" /></p>
 
 
